@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mmatabuena/mmat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Marcos Matabuena website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About me
 
-### Markdown
+I am a Ph.D. student in my final year at CiTIUS (Centro Singular de Investigación de Tecnologías Inteligentes) with the thesis entitled "New statistical learning  contributions in Reproducing Kernel Hilbert Spaces  and Frechet spaces with application in personalized medicine." Previously, I worked for two years as a researcher in the Clinical Epidemiology Unit of Santiago de Compostela's hospital. As a result, I obtained great experience in biomedical research.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A mathematician by training, I have a strong background in functional analysis and probability theory. I also have prior experience in statistical learning theory, the same as empirical process theory, that constitutes the probabilistic tools to understand and design the ML and  statistical models of the future.
 
-```markdown
-Syntax highlighted code block
+As methodological contributions, I have extended the famous statistical and ML concepts of the "energy distance" or the "maximum mean discrepancy" to the setting of incomplete information, such as censoring or missing data. I also propose the first biclustering algorithm for complex data in Reproducing kernel Hilbert Spaces.
 
-# Header 1
-## Header 2
-### Header 3
+As modeling contributions, I was the first to propose distributional representation strategies to model data from biosensors, such as continuous glucose monitors or accelerometer data. The introduction of  new distributional representations allows improving the performance of classical compositional summary metrics in these domains. For example, clinical studies provide how new findings of glucose or physical activity profiles impact our health. In collaboration with Fernando Huelin, I am also proposing the first indirect methodology to estimate indirectly maximum oxygen consumption. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Despite my young age and developed my career in small university of Spain, most of the projects I have led or developed autonomously, and I have a critical view of relevant research and what topic we need to work on to "change the world." 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+My current research interests are the following (some of them outside my Ph.D. studies):
+   
+   -  ML and statistics from Personalized medicine
+   -  Causal Inference
+   - Survey data
+   - Multilevel model
+   - Distributional data analysis (statistics in Fréchet spaces)
+   - Survival analysis
+   -  Functional data analysis and High dimensional statistics
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmatabuena/mmat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am currently collaborating with researchers from universities of diferent countries (USA, Germany, UK, France, Chile, Finland, New Zealand).
+
+If you want to contact me, please write  at marcos.matabuena@usc.es 
+
+# Published articles
+
+
+# Preprints
+
+# Papers on progress
