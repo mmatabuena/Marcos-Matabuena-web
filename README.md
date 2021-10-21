@@ -37,6 +37,30 @@ I am currently collaborating with researchers from universities of different cou
 
 For further information please send me a email at **marcos.matabuena@usc.es**. [Google scholar profile](https://scholar.google.es/citations?user=7JGwZ5UAAAAJ&hl=es&oi=ao); [Researchgate profile](https://www.researchgate.net/profile/Marcos-Matabuena).
 
+# Selected work (by relevance)
+
+- Kernel Biclustering Algoritm in Hilbert Spaces [Link](https://github.com/mmatabuena/Marcos-Matabuena-website/blob/main/2021_sc2.pdf) 
+
+
+-  Matabuena, M., Petersen, A., Vidal, J. C., & Gude, F. (2021). Glucodensities: A new representation of glucose profiles using distributional data analysis. Statistical methods in medical research, 0962280221998064.
+-  
+
+- Matabuena, M., & Petersen, A. (2021). Distributional data analysis with accelerometer data in a NHANES database with nonparametric survey regression models. arXiv preprint arXiv:2104.01165.
+
+
+-  Matabuena, M., Rodríguez-Mier, P., García-Meixide, C., & Leborán, V. (2021). COVID-19: Estimation of the transmission dynamics in Spain using a stochastic simulator and black-box optimization techniques. Computer methods and programs in biomedicine, 211, 106399.
+
+
+- Matabuena, M., Vidal, J. C., Hayes, P. R., & Huelin Trillo, F. (2018). A 6-minute sub-maximal run test to predict VO2 max. Journal of sports sciences, 36(22), 2531-2536.
+
+
+- Matabuena, M., Félix, P., Meijide-Garcıa, C., & Gude, F. Five-year prediction of glucose changes with missing data in a Reproducing Kernel Hilbert Space.
+
+- Matabuena, M., & Padilla, O. H. M. (2019). Energy distance and kernel mean embeddings for two-sample survival testing. arXiv preprint arXiv:1912.04160.
+
+
+
+
 # Published articles
 
 
