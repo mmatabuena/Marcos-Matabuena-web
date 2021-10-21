@@ -29,7 +29,7 @@ My current research interests (or active research areas) are the following (some
    - Functional data analysis and High dimensional statistical
 
 
-
+s
 I am currently collaborating with researchers from universities of different countries (USA, Germany, UK, France, Chile, Finland, New Zealand).
 
 If you want to contact me, please write  at  **marcos.matabuena@usc.es**. [Google scholar profile](https://scholar.google.es/citations?user=7JGwZ5UAAAAJ&hl=es&oi=ao); [Researchgate profile](https://www.researchgate.net/profile/Marcos-Matabuena).
