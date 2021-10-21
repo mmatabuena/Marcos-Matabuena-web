@@ -94,7 +94,6 @@ If you want to contact me, please write  at  **marcos.matabuena@usc.es**. [Googl
  - [R package Distributional.biosensor.fda](https://github.com/covid19-modeling/pyncov-19) 
  - [R package Kernel biclustering](https://github.com/covid19-modeling/pyncov-19) 
  - [Pyncov-19: Learn and predict the spread of COVID-19](https://github.com/covid19-modeling/pyncov-19) 
-a
 
 # Miscelanea: Our COVID-19 Website 
 
