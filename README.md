@@ -69,7 +69,7 @@ If you want to contact me, please write  at  **marcos.matabuena@usc.es**. [Googl
 
 # Some Preprints 
 
-5 Kernel Biclustering Algoritm in Hilbert Spaces [Link]( 
+5 Kernel Biclustering Algoritm in Hilbert Spaces [Link](https://github.com/mmatabuena/Marcos-Matabuena-website/blob/main/2021_sc2.pdf) 
 
 4 Matabuena, M., & Petersen, A. (2021). Distributional data analysis with accelerometer data in a NHANES database with nonparametric survey regression models. arXiv preprint arXiv:2104.01165.
 
