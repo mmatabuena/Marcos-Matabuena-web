@@ -2,11 +2,6 @@
 ## Welcome to Marcos Matabuena website
 
 
-%//![Photo](https://github.com/mmatabuena/Marcos-Matabuena-web/blob/main/FOTOWEB.jpeg)
-
-
-
-
 
 # About me
 
