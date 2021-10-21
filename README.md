@@ -34,7 +34,7 @@ My current research interests (or active research areas) are the following (some
 
 I am currently collaborating with researchers from universities of diferent countries (USA, Germany, UK, France, Chile, Finland, New Zealand).
 
-If you want to contact me, please write  at  [mail](marcos.matabuena@usc.es). 
+If you want to contact me, please write  at  **marcos.matabuena@usc.es**. 
 
 # Published articles
 
