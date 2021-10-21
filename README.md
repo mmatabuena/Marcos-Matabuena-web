@@ -3,27 +3,29 @@
 
 # About me
 
-I am a Ph.D. student in my final year at CiTIUS (Centro Singular de Investigación de Tecnologías Inteligentes) with the thesis entitled "New statistical contributions in Reproducing Kernel Hilbert Spaces  and Frechet spaces with application in personalized medicine." Previously, I worked for two years as a researcher in the Clinical Epidemiology Unit of Santiago de Compostela's hospital. As a result, I obtained great experience in biomedical research.
+I am a Ph.D. student in my final year at CiTIUS (Centro Singular de Investigación en Tecnologías Inteligentes) with the thesis entitled "New statistical contributions in Reproducing Kernel Hilbert Spaces  and Frechet spaces with application in personalized medicine." Previously, I worked for two years as a researcher in the Clinical Epidemiology Unit of Santiago de Compostela's hospital. As a result, I obtained great experience in biomedical research.
 
-A mathematician by training, I have a strong background in functional analysis and probability theory. I also have prior experience in statistical inference theory, the same as empirical process theory, that constitutes the probabilistic tools to understand and design the statistical and  ML models of the future.
+As a mathematician, I have a strong background in functional analysis and probability theory. I also have prior experience in statistical inference theory, as well as  empirical process theory, which constitute the probabilistic tools to understand and design the statistical and  ML models of the future.
 
-My extensive experience in statistics and machine learning in medicine and related fields gives me a unique insight into the "next" methodological contributions that data science researchers must be address the future challenges of precision medicine  and AI in medicine,   and efficiently model the different research questions that practitioners may ask. 
+My extensive experience in statistics and machine learning in medicine and related fields gives me a unique insight into the "next" methodological contributions that data science researchers must propose to address the future challenges of precision medicine  and AI in medicine, and  and to model efficiently
+the different research questions that practitioners may ask. 
 
-As methodological contributions, I have extended the famous statistical and ML concepts of the "energy distance" or the "maximum mean discrepancy" to the setting of incomplete information, such as censoring or missing data. I also proposed the first bi-clustering algorithm for complex data in Reproducing kernel Hilbert Spaces.
-
-As modeling contributions, I was the first to propose distributional representation strategies to model data from biosensors, such as continuous glucose monitors or accelerometer devices. The introduction of  new distributional representations allows improving the performance that traditional data analysis methods in these domains. For example, in clinical applications we provided new findings as how glucose or physical activity profiles impact our health. In collaboration with Fernando Huelin, I proposed the first indirect methodology to estimate maximum oxygen consumption with accuracy. 
+As methodological contributions, I have extended the famous statistical and ML concepts of the "energy distance" or the "maximum mean discrepancy" to the setting of incomplete information, such as censored or missing data. I have also proposed proposed the first bi-clustering algorithm for complex data in Reproducing kernel Hilbert Spaces.
 
 
-Despite my young age and developed my career in small university of Spain, most of the projects I have led or developed autonomously, and I have a critical view of relevant research and what topic we need to work on to "change the world." 
+As modeling contributions, I was the first to propose distributional representation strategies to model data from biosensors, such as continuous glucose monitors or accelerometer devices. The introduction of  new distributional representations allows to improve the performance that traditional data analysis method have in these domains. For example, in clinical, applications we have provided new findings as how glucose or physical activity profiles impact our health. In collaboration with Fernando Huelin, I proposed the first indirect methodology to estimate maximum oxygen consumption with accuracy. 
+
+
+Despite my young age and having developed my career in a small university of Spain. I have developed most of the projects autonomously, and  critical view about relevant research and what topic we need to work on to "change the world." 
 
 
 My current research interests (or active research areas) are the following (some of them outside my Ph.D. studies):
    
-   -  ML and statistics from Personalized medicine
+   -  ML and statistics from personalized medicine
    -  Causal Inference
    -  Conformal Inference
    - Survey and missing data
-   - Multilevel model
+   - Multilevel models
    - Distributional data analysis (or more general statistics in Fréchet spaces)
    - Survival analysis
    - Functional data analysis and High dimensional statistical
