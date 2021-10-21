@@ -69,6 +69,7 @@ If you want to contact me, please write  at  **marcos.matabuena@usc.es**. [Googl
 
 # Some Preprints 
 
+5 Biclustering Algoritm on Hilbert Spaces  
 
 4 Matabuena, M., & Petersen, A. (2021). Distributional data analysis with accelerometer data in a NHANES database with nonparametric survey regression models. arXiv preprint arXiv:2104.01165.
 
@@ -80,3 +81,12 @@ If you want to contact me, please write  at  **marcos.matabuena@usc.es**. [Googl
 
 
 #  Some Papers on progress
+
+#  Computer packages
+
+ - [Pyncov-19: Learn and predict the spread of COVID-19](https://github.com/covid19-modeling/pyncov-19) 
+
+
+# Miscelanea: Our COVID-19 Website 
+
+ [Web](https://covid19-modeling.github.io)
