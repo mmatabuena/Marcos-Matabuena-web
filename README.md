@@ -18,7 +18,7 @@ As for the methodological contributions, I have extended the famous statistical 
 Regarding modeling contributions, We (Alex Petersen and I) were the first researchers to propose distributional representation strategies to model data from biosensors, such as continuous glucose monitors or accelerometer devices. The introduction of  new distributional representations allows to improve the performance that traditional data analysis methods have in these domains. For example, in clinical applications we have provided new findings such as how particular glucose or physical activity profiles can have an impact on our health. In collaboration with Fernando Huelin, I have proposed the first indirect methodology to estimate maximum oxygen consumption with accuracy. 
 
 
-Despite my young age and having developed my career in a small university of Spain, I have developed most of the projects autonomously, and I possess  critical thinking about relevant research and what matters we need to work to "change the world." 
+Despite my young age, I have developed most of the projects autonomously, and I possess  critical thinking about relevant research and what matters we need to work to "change the world." 
 
 
 My current research interests (or active research areas) are the following (some of them outside my Ph.D. studies):
@@ -33,7 +33,7 @@ My current research interests (or active research areas) are the following (some
    - Functional data analysis and High dimensional statistics
 
 
-I am currently collaborating with researchers from universities of different countries (USA, Germany, UK, France, Chile, Finland, New Zealand).
+I am currently collaborating with researchers from universities of different countries (USA, Germany, UK, France, New Zealand).
 
 For further information please send me a email at **marcos.matabuena@usc.es**. [Google scholar profile](https://scholar.google.es/citations?user=7JGwZ5UAAAAJ&hl=es&oi=ao); [Researchgate profile](https://www.researchgate.net/profile/Marcos-Matabuena).
 
@@ -53,7 +53,7 @@ For further information please send me a email at **marcos.matabuena@usc.es**. [
 - Matabuena, M., Vidal, J. C., Hayes, P. R., & Huelin Trillo, F. (2018). A 6-minute sub-maximal run test to predict VO2 max. Journal of sports sciences, 36(22), 2531-2536.
 
 
-- Matabuena, M., Félix, P., Meijide-Garcıa, C., & Gude, F. Five-year prediction of glucose changes with missing data in a Reproducing Kernel Hilbert Space.
+- Matabuena, M., Félix, P., Meijide-Garcıa, C., & Gude, (2021). Kernel methods to handle missing responses  and their application in modeling five-year glucose changes using distributional representations [Link](https://github.com/mmatabuena/Marcos-Matabuena-website/blob/main/Matabuena21web.pdf). 
 
 - Matabuena, M., & Padilla, O. H. M. (2019). Energy distance and kernel mean embeddings for two-sample survival testing. arXiv preprint arXiv:1912.04160.
 
@@ -100,7 +100,7 @@ For further information please send me a email at **marcos.matabuena@usc.es**. [
 
 3 Matabuena, M., Riazati, S., Caplan, N., & Hayes, P. (2021). Are Multilevel functional models the next step in sports biomechanics and wearable technology? A case study of Knee Biomechanics patterns in typical training sessions of recreational runners. arXiv preprint arXiv:2103.15704.
 
-2 Matabuena, M., Félix, P., Meijide-Garcıa, C., & Gude, F. Five-year prediction of glucose changes with missing data in a Reproducing Kernel Hilbert Space.
+2 Matabuena, M., Félix, P., Meijide-Garcıa, C., & Gude, (2021). Kernel methods to handle missing responses  and their application in modeling five-year glucose changes using distributional representations [Link](https://github.com/mmatabuena/Marcos-Matabuena-website/blob/main/Matabuena21web.pdf) 
 
 1 Matabuena, M., & Padilla, O. H. M. (2019). Energy distance and kernel mean embeddings for two-sample survival testing. arXiv preprint arXiv:1912.04160.
 
