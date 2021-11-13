@@ -105,7 +105,6 @@ For further information please send me a email at **marcos.matabuena@usc.es**. [
 1 Matabuena, M., & Padilla, O. H. M. (2019). Energy distance and kernel mean embeddings for two-sample survival testing. arXiv preprint arXiv:1912.04160.
 
 
-#  Some Papers on progress
 
 #  Computer packages
 
